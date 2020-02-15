@@ -1,0 +1,14 @@
+ {
+        "idCar": {
+            "type": "number"
+        },
+        "weapon": {
+            "type": "number"
+        },
+        "color": {
+            "type": "string",
+            "maxLength": {
+                "$numberInt": "512"
+            }
+        }
+ }

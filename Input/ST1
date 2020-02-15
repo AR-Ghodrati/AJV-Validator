@@ -1,0 +1,14 @@
+{
+        "name": {
+            "type": "string",
+            "maxLength": {
+                "$numberInt": "512"
+            }
+        },
+        "age": {
+            "type": "number"
+        },
+        "vdvdv": {
+            "type": "boolean"
+        }
+}
